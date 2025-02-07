@@ -1,2 +1,2 @@
 # AurunM2TWRandomMap
-AurunM2TWRandomMap by RikkoMatsumatoOfficial
+It's Random Map for M2TW(Medieval II Total War)!!! So Enjoy to use this!!!
